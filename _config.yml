@@ -1,1 +1,13 @@
+ 
+# Site Settings
+
+title: Fowad Ijaz Portfolio Website
+
+author:
+  name: Fowad Ijaz
+  email: fowad.ijaz@gmail.com
+  
+description: "Fowad's Porfolio"
+
+# Build Settings
 theme: jekyll-theme-cayman
